@@ -32,7 +32,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/kaiocesar/Projetos/simbiose-sync/venv"
+set -gx VIRTUAL_ENV "/Users/Admin/Projetos/simbiose-sync/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

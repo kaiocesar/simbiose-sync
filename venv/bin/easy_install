@@ -1,4 +1,4 @@
-#!/home/kaiocesar/Projetos/simbiose-sync/venv/bin/python
+#!/Users/Admin/Projetos/simbiose-sync/venv/bin/python3.5
 
 # -*- coding: utf-8 -*-
 import re
